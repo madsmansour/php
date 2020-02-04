@@ -14,7 +14,7 @@
 
 <form onsubmit="return false" oninput="output.value = antalPersoner.valueAsNumber">
   Hvor mange personer vil du lave grød til?<br />
-  <input id="antalPersoner" type="range" min="1" max="100" value="4"><br /> Antal personer er <output for="antalPersoner" name="output">4</output>.</form>
+  <input id="antalPersoner" type="range" min="1" max="100" value="4"><br/> Antal personer er <output for="antalPersoner" name="output">4</output>.</form>
 
 <ul>
   <li><input type="text" name="firstname" value="0.8">kg Æbler</li>
